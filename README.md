@@ -17,6 +17,7 @@ Showing basic overview of flutter concepts like stateful and stateless widgets, 
 
 * If you are using windows: https://flutter.dev/docs/get-started/install/windows
 * If you are using iOS: https://flutter.dev/docs/get-started/install/macos
+* We will however be using an online development platform called FlutLab for the sake of this project 
 
 ## Authors
 
